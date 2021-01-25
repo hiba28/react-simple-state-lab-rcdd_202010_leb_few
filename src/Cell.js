@@ -19,7 +19,7 @@ export default class Cell extends Component {
     return (
       <div
         className="cell"
-        
+
         onClick={this.handleClick}>
       </div>
     )
